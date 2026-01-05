@@ -1,4 +1,5 @@
-# Depo - Comprehensive Inventory Management App
+# Depo
+> **D**igital **E**cosystem for **P**arts & **O**rders
 
 <p align="center">
   <a href="#-english">🇬🇧 English</a> &nbsp;&bull;&nbsp; <a href="#-magyar">🇭🇺 Magyar</a>
@@ -11,14 +12,14 @@
 > Central hub for the final year project of **Kálmán Barnabás Máté** and **Hornyák Tibor** (2025-2026).
 
 ### About the Project
-This organization hosts all repositories related to the development of **[Projekt Neve]**. The aim of the project is to create a comprehensive platform featuring both web and mobile interfaces.
+This organization hosts all repositories related to the development of **Depo**. The aim of the project is to create a comprehensive platform featuring both web and mobile interfaces.
 
 **Objective:**
 To create an integrated system that optimizes storage logistics and inventory control in real-time.
 
 ## Tech Stack
 
-### Frontend
+### Frontend & Mobile
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -45,7 +46,7 @@ To create an integrated system that optimizes storage logistics and inventory co
 > **Kálmán Barnabás Máté** és **Hornyák Tibor** végzős projektjének központi tárhelye (2025-2026).
 
 ### A Projektről
-Ez a szervezet fogja össze a **[Projekt Neve]** fejlesztéséhez kapcsolódó összes repository-t. A projekt célja egy teljes platform létrehozása webes és mobil felülettel.
+Ez a szervezet fogja össze a **Depo** fejlesztéséhez kapcsolódó összes repository-t. A projekt célja egy teljes platform létrehozása webes és mobil felülettel.
 
 **Célkitűzés:**
 Egy integrált rendszer létrehozása, amely valós időben optimalizálja a raktári logisztikát és a készletkezelést.
@@ -54,11 +55,10 @@ Egy integrált rendszer létrehozása, amely valós időben optimalizálja a rak
 
 ## Technológiák
 
-### Frontend
+### Frontend & Mobile
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
