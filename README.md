@@ -1,4 +1,5 @@
-# [Projekt Neve Ide]
+# Depo
+> **D**igital **E**cosystem for **P**arts & **O**rders
 
 <p align="center">
   <a href="#-english">🇬🇧 English</a> &nbsp;&bull;&nbsp; <a href="#-magyar">🇭🇺 Magyar</a>
