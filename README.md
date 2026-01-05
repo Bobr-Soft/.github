@@ -12,7 +12,7 @@
 > Central hub for the final year project of **Kálmán Barnabás Máté** and **Hornyák Tibor** (2025-2026).
 
 ### About the Project
-This organization hosts all repositories related to the development of **[Projekt Neve]**. The aim of the project is to create a comprehensive platform featuring both web and mobile interfaces.
+This organization hosts all repositories related to the development of **Depo**. The aim of the project is to create a comprehensive platform featuring both web and mobile interfaces.
 
 **Objective:**
 To create an integrated system that optimizes storage logistics and inventory control in real-time.
@@ -44,7 +44,7 @@ To create an integrated system that optimizes storage logistics and inventory co
 > **Kálmán Barnabás Máté** és **Hornyák Tibor** végzős projektjének központi tárhelye (2025-2026).
 
 ### A Projektről
-Ez a szervezet fogja össze a **[Projekt Neve]** fejlesztéséhez kapcsolódó összes repository-t. A projekt célja egy teljes platform létrehozása webes és mobil felülettel.
+Ez a szervezet fogja össze a **Depo** fejlesztéséhez kapcsolódó összes repository-t. A projekt célja egy teljes platform létrehozása webes és mobil felülettel.
 
 **Célkitűzés:**
 Egy integrált rendszer létrehozása, amely valós időben optimalizálja a raktári logisztikát és a készletkezelést.
